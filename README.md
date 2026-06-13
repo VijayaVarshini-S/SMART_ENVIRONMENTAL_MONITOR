@@ -4,7 +4,7 @@ Arduino-based Smart Environmental Monitor with real-time Temperature, Humidity, 
 
 An Arduino-based real-time environmental monitoring system with fire detection capability.
 
-![Project Banner](IMAGES/HARDWARE.jpg)
+![Project Banner](HARDWARE.jpg)
 
 ## Features
 - Temperature & Humidity monitoring (DHT11)
@@ -23,15 +23,15 @@ An Arduino-based real-time environmental monitoring system with fire detection c
 - Breadboard & Jumper wires
 
 ## Circuit Diagram
-![Circuit](CIRCUIT/CIRCUIT DIAGRAM.jpg)
+![Circuit](CIRCUIT_DIAGRAM.jpg)
 
 ## PCB diagram
-![PCB](CIRCUIT/PCB.jpg)
+![PCB](PCB.jpg)
 
 ## How to Use
 
 1. Clone the repository
-2. Open `CODE/smart_environmental_monitor.ino` in Arduino IDE
+2. Open `smart_environmental_monitor.ino` in Arduino IDE
 3. Install required libraries:
    - DHT sensor library ( By Frank de Brabander )
    - LiquidCrystal_I2C ( By Adafruit )
@@ -39,7 +39,7 @@ An Arduino-based real-time environmental monitoring system with fire detection c
 5. Monitor values on Serial Monitor or LCD
 
 ## Project Report
-Full detailed report available in [`REPORT/SMART_ENVIRONMENTAL_MONITOR.pdf`](REPORT/SMART_ENVIRONMENTAL_MONITOR.pdf)
+Full detailed report available in [`REPORT/SMART_ENVIRONMENTAL_MONITOR.pdf`](SMART_ENVIRONMENTAL_MONITOR.pdf)
 
 
 ## License
